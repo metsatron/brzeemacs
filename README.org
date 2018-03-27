@@ -1,0 +1,19 @@
+#+TITLE: Brzeemacs layer
+
+
+[[./img/brzeemacs.png]]
+
+* Table of Contents                                        :TOC_4_gh:noexport:
+- [[#description][Description]]
+- [[#install][Install]]
+
+* Description
+This layer is a Brzeemacs config:
+  - Initialization of the Brzeemacs layer
+  - Sets styling configuration
+
+* Install
+To use this configuration layer, add it to your =~/.spacemacs=. You will need to
+add =habitica= to the existing =dotspacemacs-configuration-layers= list in this
+file.
+
